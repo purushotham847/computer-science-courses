@@ -1,0 +1,210 @@
+.sidebar nav ol
+{
+    list-style:none;
+    padding-left:0px;
+    font-size: 50px;
+/* background-color: aqua;*/
+    padding: 15px;
+    margin: 0px;
+
+}
+
+.sidebar nav ol li{
+    padding:28px;
+    font-size: 20px;
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.main{
+   /* background-color:blue;*/
+    margin: 0px; 
+height: 366px;
+    width: 1000px;
+    display:flex ;
+}
+
+
+.nav{
+    height: 300px;
+}
+.name1{
+    font-size: 30px;
+}
+.introduction{
+    padding-left: 300px;
+}
+.name{
+    padding-left: 5px;
+}
+.info{
+    padding: 5px;
+}
+.sidebar{
+    height: 333px;
+    width: 176px;
+    padding-left: 0px;
+   
+}
+.sidebar nav ol a{
+    text-decoration: none;
+}
+.photo{
+    padding-right: 23pxpx;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-left: 0px;
+    width: 34px;
+    padding-right: 300px;
+    padding-top:0 px;
+}
+
+.contactme1{
+    font-size:21px;
+    padding: 15px;
+}
+.emailid {
+    padding: 8px;
+}
+.insta{
+    padding: 8px;
+}
+.phonenumber{
+    padding: 8px;
+}
+.contactfull{
+    display: flex;
+}
+
+.coursesfull{
+    display: flex;
+}
+.courseheading{
+    font-size: 60px;
+    padding-left: 300px;
+}
+.maincourses{
+    width: 970px;
+}
+.fullname{
+    padding-bottom: 28px;
+    padding-left: 300px;
+}
+
+.emailaddress{
+    padding-bottom: 28px;
+    padding-left: 300px;
+}
+
+.phonenumber1{
+    padding-bottom:28px;
+    padding-left: 300px;
+}
+.password{
+    padding-bottom: 28px;
+    padding-left: 300px;
+}
+
+.button{
+    padding-left: 300px;
+}
+
+.registerfull h1{
+    text-align: center;
+    padding-left: 300px;
+}
+
+.skills{
+    flex-direction:row;
+}
+.skilldiv{
+    flex-direction: column;
+}
+.fullregister{
+    display: flex;
+    font-size: 20px;
+}
+
+
+.skilldiv{
+    padding-left: 300px;
+    padding-top: 0px;
+
+ display: flex;
+    font-size: 20px;
+}
+
+.skills li{
+    padding: 7px;
+}
+.fullindex{
+    display: flex;
+}
+.maincontact h1{
+    padding-left: 23px;
+}
+.indexmain{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 150px;
+width:540px;
+padding-left: 200px;
+
+}
+.sidebar{
+    padding-top: 100px;
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.introduction{
+    padding-top: 150px;
+    width: 590px;
+    padding-left: 110px;
+    font-size: 20px;
+
+}
+
+.fullintro{
+    display: flex;
+}
+.fullhome{
+    display: flex;
+}
+.homeheading h1{
+    padding-left: 190px;
+background-color: rgb(72, 183, 248);
+font-size: 60px;
+width:800px;
+}
+
+.homefull{
+flex-direction: column;
+width: 1000px;
+}
+
+.courseslist{
+    font-size:20px;
+}
+
+.csmain{
+    font-size:20px;
+}
+
+
+.registerfull{
+    padding-top: 100px;
+}
+
+.registerfull h1{
+    font-size: 50px;
+    width: 28px;
+}
+.button{
+    padding-left: 399px;
+}
+.maincontact{
+    padding-top: 100px;
+    padding-left:50px;
+}
